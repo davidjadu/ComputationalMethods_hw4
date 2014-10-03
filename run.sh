@@ -1,4 +1,3 @@
-rm final_data.dat
 ls Brahe-3141-f/* > file_names.dat
 cc execute.c 
 ./a.out 
